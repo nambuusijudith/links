@@ -1,0 +1,262 @@
+.main-div{
+    background-color: violet;
+    width: 990px;
+    height: 150px;
+    
+}
+.nan{
+    color: white;
+    font-style: italic;
+}
+
+body{
+    background-image: url(a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.second-div{
+
+    
+    width: 1300px;
+    height: 500px;
+
+
+
+
+}
+
+
+.heg{
+    font-style: oblique;
+    font-family: algerian;
+}
+
+
+.e{
+    bottom: 10%;
+}
+.links{
+    display: flex;
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+.links li{
+    padding-left: 80px;
+     font-style: none;
+}
+.links li a{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+
+}
+.links li a:hover{
+    color: black;
+    font-size: larger;
+}
+.nn{
+    position: absolute;
+    top: 300px;
+    height: 300px;
+    width: 300px;
+}
+#move{
+    position: absolute;
+    right: 50px;
+    top: 220px;
+}
+#me{
+    position: absolute;
+    right:150px ;
+}
+.list{
+    display: flex;
+    padding-top: 20px;
+    list-style-type: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+.list li{
+    padding: 20px; 
+    
+    
+   
+}
+#lu{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.lit{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 20px;
+    list-style-type: none;
+}
+.lit li{
+    padding: 20px;
+   
+}
+.kk{
+    display: flex;
+    padding-top: 200px;
+    list-style-type: none;
+}
+#key{
+    position: absolute;
+    right: 50px;
+    bottom: 40px;
+}
+#mek{
+    position: absolute;
+    right:150px ;
+    bottom: 130px;
+}
+#lul{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    position: absolute;
+    top: 650px;
+    left: 600px;
+
+}
+.pp{
+    position: absolute;
+    left: 600px;
+    height: 300px;
+    width: 300px;
+    padding-left: 20px;
+
+}
+.tec{
+    display: flex;
+    padding-top: 10px;
+    list-style-type: none;
+    padding-left: 20px;
+}
+.tec li{
+    padding: 20px;
+   
+
+
+}
+.pen{
+
+    display: flex;
+    padding-top: 20px;
+    list-style-type: none;
+}
+.pen li{
+    padding: 20px;
+   
+
+
+
+
+}
+.k{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+
+.third-div{
+
+    background-color: rgba(238, 130, 238, 0.801);
+
+    width: 990px;
+    height: 200px;
+
+
+}
+.pem{
+
+    display: flex;
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+.pem li{
+    padding-left: 80px;
+     font-style: none;
+}
+.pem li a{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+
+
+
+
+}
+.image{
+display: flex;
+    text-decoration: none;
+    padding: 20px;
+    position: absolute;
+    top: 800px;
+    list-style-type: none;
+}
+.image li{
+    padding: 10px;
+}
+#pic{
+    width: 20px;
+    height: 20px;
+}
+.meg{
+    display: flex;
+    padding-top: 10px;
+    list-style-type: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+.meg li{
+    padding: 40px; 
+    
+    
+   
+}
+#he{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    
+
+}
+.geo{
+    display: flex;
+    padding-top: 20px;
+    list-style-type: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+.geo li{
+    padding: 40px; 
+    
+    
+   
+}
+#pop{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    
+
+
+
+}
+
+
+
+
+
+
